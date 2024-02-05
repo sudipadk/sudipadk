@@ -18,8 +18,6 @@
 <a href="https://twitter.com/sudipadhi33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudipadhi33" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sudip-adhikari-22489925a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudip-adhikari-22489925a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sudip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sudip" height="30" width="40" /></a>
-<a href="https://fb.com/sudipadhikari.2019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sudipadhikari.2019" height="30" width="40" /></a>
-<a href="https://instagram.com/sudipadhikari.2019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudipadhikari.2019" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
