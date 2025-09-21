@@ -5,7 +5,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="420" src="https://imgs.search.brave.com/YQsKBuHdeTpqXU4SkAtMmkRFUhwBw_4YQ1hzu_Gosbs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhNR1ZtWkhSeU1t/WjJNWGRzY2pCcGIy/WTJjakJrYXpSNk0y/azJNMkptZERkemJY/ZHJZVzV1YkNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vTHlWNGN3MHZE/dEFnYzh4VEhRL2dp/cGh5LmdpZg.gif">
 
 ### 👨‍💻 About Me  
 - 🌱 Currently working with **MERN Stack & TypeScript**  
