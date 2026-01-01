@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Full-Stack Developer | MERN Stack Enthusiast | TypeScript</h3>
 
 <p align="center">
-  <a href="https://adhikari-sudip.vercel.app">Portfolio</a> •
+  <a href="https://adhikarisudip061.vercel.app">Portfolio</a> •
   <a href="https://linkedin.com/in/sudip-adhikari-22489925a">LinkedIn</a> •
   <a href="mailto:sudip.adhk1@gmail.com">Email</a>
 </p>
