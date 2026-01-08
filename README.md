@@ -57,13 +57,14 @@ I'm a passionate full-stack developer from **Nepal** 🇳🇵 with expertise in 
 
 ![Sudip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudipadk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=issues)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudipadk&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=sudipadk&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudipadk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
 ---
+
 
 ### 🚀 Featured Projects
 
