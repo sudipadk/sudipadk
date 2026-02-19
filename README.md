@@ -21,7 +21,7 @@ I'm a passionate full-stack developer from **Nepal** 🇳🇵 with expertise in 
 - 💼 **Recently Built:** Event Booking & Management System (MERN + JavaScript)
 - 🎯 **Goal:** To become a proficient **Software Developer** contributing to meaningful projects
 - 📫 **Reach me:** sudip.adhk1@gmail.com
-- 🌐 **Portfolio:** [adhikari-sudip.vercel.app](https://adhikari-sudip.vercel.app)
+- 🌐 **Portfolio:** [adhikarisudip061.vercel.app](https://adhikarisudip061.vercel.app)
 
 ---
 
