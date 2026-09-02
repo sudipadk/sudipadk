@@ -110,10 +110,10 @@ I'm a passionate Software Developer from **Nepal** 🇳🇵 specializing in buil
 
 ---
 
-### 📈 Activity Graph
+### 📈 Contribution Graph (Last 30 Days)
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudipadk&theme=github-dark&hide_border=true" alt="Sudip's Activity Graph" width="100%"/>
+  <img src="https://github-readme-graph.vercel.app/graph?username=sudipadk&theme=dark" alt="Sudip's Contribution Graph" width="100%"/>
 </div>
 
 ---
